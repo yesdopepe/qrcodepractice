@@ -1,0 +1,35 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.box{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border: 5px;
+    border-radius: 10px;
+    width: 280px;
+    height: 450px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: auto;
+   background-color:hsl(0, 0%, 100%);
+}
+.text{
+    text-align: center;
+    font-family: Outfit, specimen;
+}
+
+#paragraf{
+    font-weight: 400;
+    font-size: 12px;
+    color: hsl(220, 15%, 55%);
+}
+#headertext{
+    font-weight: 700;
+    font-size: 18px;
+}
+
+#photo{
+    width: 250px;
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
